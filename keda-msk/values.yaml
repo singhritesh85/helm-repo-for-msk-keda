@@ -1,8 +1,0 @@
-bootstrapServers: ""
-awsRegion: ""
-
-consumerGroup: ""
-topic: ""
-
-minReplicas: ""
-maxReplicas: ""
