@@ -1,6 +1,0 @@
-apiVersion: v2
-name: keda-msk
-description: KEDA autoscaling for Kafka MSK consumer
-type: application
-version: 0.1.0
-appVersion: "1.0"
